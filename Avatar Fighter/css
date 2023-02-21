@@ -1,0 +1,62 @@
+{
+    -webkit-box-sizing:border-box;
+    margin:auto;
+    
+    background-size:120%;
+    
+   
+
+}
+
+.selector{
+   display:inline;
+    width:60px;
+    height:60px;
+    
+}
+h2>img{
+    height:200px;
+    
+}
+#Aang{
+    position: absolute;bottom: 10%;right:40%;
+    margin-right: 100px;
+    margin-left:100px;
+padding:10px;
+}
+#Katara{
+    position: absolute;bottom: 10%;right:40%;
+    margin-right: 100px;
+    margin-left:100px;
+padding:10px;
+}
+#Toph{
+    position: absolute;bottom: 10%;right:40%;
+    margin-right: 100px;
+    margin-left:100px;
+padding:10px;
+}
+#Sokka{
+    position: absolute;bottom: 10%;right:40%;
+    margin-right: 100px;
+    margin-left:100px;
+padding:10px;
+}
+#Zuko{
+    position: absolute;bottom:10%;right:20%;
+    height:250px;
+}
+
+.hidden{
+    display:none;
+}
+span{
+    float:right;
+    color:white;
+    font-size:30px;
+    position: absolute;top:0%;right:40%;
+}
+a> img{
+    position: absolute;top:0%;right:0%;
+    height:100px;
+}
